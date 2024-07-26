@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tracker_symbols_library")(type "KiCad")(uri "${KIPRJMOD}/tracker_symbols_library.kicad_sym")(options "")(descr ""))
+)
